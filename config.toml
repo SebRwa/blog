@@ -26,7 +26,7 @@ description = "Sebastian Ochoa"
 title404 = "Nothing's here!"
 
 [params.assets]
-
+favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -70,7 +70,7 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "jsdjop@gmail.com"
+email = "ochjsj@gmail.com"
 instagram = "Sebrwa"
 linkedin = "juan-ochoa"
 twitter = "Sebrwa"
