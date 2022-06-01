@@ -1,4 +1,4 @@
 baseURL = 'http://sebrwa.github.io/blog/'
 languageCode = 'en-us'
-title = 'Sebastian Ochoa'
+title = 'test'
 theme = 'minimo-master'
