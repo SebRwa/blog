@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://sebrwa.github.io/blog/'
 languageCode = 'en-us'
 title = 'Sebastian Ochoa'
 theme = 'minimo-master'
