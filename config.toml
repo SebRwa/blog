@@ -1,4 +1,6 @@
-baseURL = 'http://sebrwa.github.io/blog/'
+#baseURL = 'http://sebrwa.github.io/blog/'
+baseURL = ""
+relativeURLs = "True"
 languageCode = 'en-us'
 title = 'Sebastian Ochoa'
 theme = 'hugo-initio-main'
