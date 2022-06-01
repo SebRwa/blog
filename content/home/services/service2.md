@@ -1,5 +1,6 @@
 +++
 title = "Application Development"
+date = "2013-06-17T12:00:00-00:00"
 +++
 
 Different solutions to specific problems. Design solutions using java, python, c#, c++ or visual basic. 
