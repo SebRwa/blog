@@ -48,13 +48,13 @@ theme = 'hugo-initio-main'
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "UA-93994615-1"
 
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/juan-ochoa/"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
@@ -75,6 +75,6 @@ theme = 'hugo-initio-main'
 	title = "email"
 	url = "mailto:ochoajsj@gmail.com"
     icon = "fas fa-envelope-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"

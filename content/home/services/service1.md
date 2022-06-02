@@ -21,4 +21,4 @@ Accomplishments
 
 ● Multi task capability focused on goals.
 
-● Proactively act to understand customer technical needs and identify potential card solutions in relation with the Gemalto card product roadmap.
+● Proactively act to understand customer technical needs and identify potential card solutions in relation with the product product roadmap.
